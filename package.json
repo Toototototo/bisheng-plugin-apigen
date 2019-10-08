@@ -1,13 +1,13 @@
 {
   "name": "bisheng-plugin-apigen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "利用react-docgen，结合bisheng脚手架自动生成组件API文档。将生成的数据提供给site部分使用。",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benjycui/bisheng-plugin-description.git"
+    "url": "git+https://github.com/Toototototo/bisheng-plugin-apigen.git"
   },
   "keywords": [
     "bisheng",
