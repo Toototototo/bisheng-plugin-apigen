@@ -1,7 +1,7 @@
 {
   "name": "bisheng-plugin-apigen",
-  "version": "1.0.3",
-  "description": "利用react-docgen，结合bisheng脚手架自动生成组件API文档。将生成的数据提供给site部分使用。",
+  "version": "1.0.4",
+  "description": "利用react-docgen-typescript，结合bisheng脚手架自动生成组件API文档。将生成的数据提供给site部分使用。",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,6 +21,6 @@
   "author": "unauna",
   "license": "MIT",
   "dependencies": {
-    "react-docgen": "^4.1.1"
+    "react-docgen-typescript": "^1.15.1"
   }
 }
